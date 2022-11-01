@@ -1,0 +1,17 @@
+ .select_div {
+     display: flex;
+     justify-content: center;
+     margin-top: 20px;
+ }
+ 
+ select {
+     background-color: white;
+     border: 3px #189391 solid;
+     padding: 0.5%;
+     width: 14%;
+     border-radius: 2px;
+ }
+ 
+ option {
+     border: 2px #189391 solid;
+ }
